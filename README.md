@@ -1,2 +1,2 @@
-# vc.Utility.ServiceMessaging
+# VisionaryCoder.Utility.ServiceMessaging
 Library for service messaging
